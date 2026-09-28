@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Bhakti Bangla
+http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
